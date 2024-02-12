@@ -2,8 +2,7 @@
 <h1 align='left'> About Me </h1>
 <p align="justify">I'm a full-stack developer from Sri Lnaka specializing in Flutter and the MERN stack. 💻 I love crafting mobile apps with Flutter 📱 and building web applications using MongoDB, Express.js, React.js, and Node.js. 🚀 With a focus on creating intuitive user experiences, I'm passionate about staying up-to-date with the latest technologies and collaborating on exciting projects! 🌟</p>
 
-<p align="center" marginTop = 2>
-  
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="code.gif">
 </p>
 
