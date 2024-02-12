@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sahas Uthpala</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka.</h3>
+<img width="1834" alt="Make your README" src="https://github.com/sahas97/sahas97/assets/65613126/b150b5d5-c393-420d-aeee-140c034e4268">
+<h1 align='left'> About Me </h1>
+<p align="justify">I'm a dual-stack developer specializing in Flutter and the MERN stack. 💻 I love crafting mobile apps with Flutter 📱 and building web applications using MongoDB, Express.js, React.js, and Node.js. 🚀 With a focus on creating intuitive user experiences, I'm passionate about staying up-to-date with the latest technologies and collaborating on exciting projects! 🌟</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahas97&label=Profile%20views&color=0e75b6&style=flat" alt="sahas97" /> </p>
-
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="code.gif">
+<p align="center" marginTop = 2>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="code.gif">
+</p>
 
 - 🌱 I’m currently learning **NodeJs,Flutter,React**
 
