@@ -1,6 +1,6 @@
 <img width="1834" alt="Make your README" src="https://github.com/sahas97/sahas97/assets/65613126/b150b5d5-c393-420d-aeee-140c034e4268">
 <h1 align='left'> About Me </h1>
-<p align="justify">I'm a full-stack developer from Sri Lnaka specializing in Flutter and the MERN stack. 💻 I love crafting mobile apps with Flutter 📱 and building web applications using MongoDB, Express.js, React.js, and Node.js. 🚀 With a focus on creating intuitive user experiences, I'm passionate about staying up-to-date with the latest technologies and collaborating on exciting projects! 🌟</p>
+<p align="justify">I'm a full-stack developer from Sri Lanka specializing in Flutter and the MERN stack. 💻 I love crafting mobile apps with Flutter 📱 and building web applications using MongoDB, Express.js, React.js, and Node.js. 🚀 With a focus on creating intuitive user experiences, I'm passionate about staying up-to-date with the latest technologies and collaborating on exciting projects! 🌟</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="code.gif">
